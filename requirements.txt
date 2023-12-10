@@ -1,0 +1,5 @@
+pandas==2.1.4
+pycryptodome==3.19.0
+python_dateutil==2.8.2
+requests==2.31.0
+websocket_client==1.7.0
