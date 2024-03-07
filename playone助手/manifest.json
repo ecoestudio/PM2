@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Playone助手",
+    "version": "1.0",
+    "description": "Playone助手",
+    "host_permissions": [
+        "*://*.goplayone.com/"
+    ],
+    "permissions": [
+        "cookies"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
