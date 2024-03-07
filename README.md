@@ -1,4 +1,5 @@
 # Playone Monitor
+使用前請聯絡ecoe以索取金鑰喔!
 
 ## 功能
 ![](img/menu.png)
