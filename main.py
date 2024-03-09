@@ -4,7 +4,8 @@ import runpy
 import sys
 
 print("歡迎使用ECOE Playone助手。")
-print("警語：使用風險由使用者自行承擔，ECOE工作室不負擔任何責任")
+print("警語：使用者請自行評估使用風險，此程式可能違反官方的服務契約: https://www.goplayone.com/legal/termsofService")
+print("警語：ECOE工作室不負擔與此程式、Playone相關的任何法律責任，使用者自行承擔一切後果")
 print("- 抽蛋間隔建議不要超過一般手動太多")
 print("- 不要多開")
 print("- 不要頻繁登入")
