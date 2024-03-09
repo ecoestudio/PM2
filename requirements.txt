@@ -5,3 +5,4 @@ requests
 websocket_client==1.7.0
 aiohttp
 asyncio
+streamlit
