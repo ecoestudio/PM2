@@ -1,4 +1,6 @@
 # Playone Monitor
+現以支援GUI介面!
+![](img/ui_egg_smash.png)
 使用前請聯絡ecoe以索取金鑰喔!
 
 ## 功能
