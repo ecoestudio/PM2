@@ -5,6 +5,7 @@ IF NOT EXIST PortableGit (
   echo PortableGit folder does not exist.
   echo Running PortableGit-2.40.0-64-bit.7z.exe with force option.
   start "" "PortableGit-2.40.0-64-bit.7z.exe" force
+  exit /b
 ) ELSE (
   echo PortableGit folder exists.
 )
