@@ -15,10 +15,11 @@
 1. 點擊安裝`python-3.10.11-amd64.exe (務必勾選Add python.exe to PATH)
 ![](img/install_python.png)
 2. 點擊`launch.bat`。如果跳出視窗詢問是否安裝，選OK
+![](img/folder.png)
 (如果跳出藍色方框"Windows已保護您的電腦"，請點選`仍要執行`)
-3. 完成後再次點選`launch.bat`，複製機器碼，聯絡ecoe以索取金鑰
-4. 關閉視窗，重新點擊`launch.bat`，貼上金鑰，按enter
-5. 安裝資料夾中的`playone助手`到chrome (參考: https://www.thesslstore.com/blog/install-a-chrome-extension/)
+1. 完成後再次點選`launch.bat`，複製機器碼，聯絡ecoe以索取金鑰
+2. 關閉視窗，重新點擊`launch.bat`，貼上金鑰，按enter
+3. 安裝資料夾中的`playone助手`到chrome (參考: https://www.thesslstore.com/blog/install-a-chrome-extension/)
 
 ### 使用方式
 1. 開啟瀏覽器，登入欲抽蛋帳號，進入語音房
